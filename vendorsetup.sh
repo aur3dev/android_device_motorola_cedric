@@ -1,0 +1,3 @@
+add_lunch_combo full_cedric-user
+add_lunch_combo full_cedric-userdebug
+add_lunch_combo full_cedric-eng
